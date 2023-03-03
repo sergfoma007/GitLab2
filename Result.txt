@@ -1,0 +1,447 @@
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 ~
+$ ды
+bash: ды: command not found
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Intel/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+ RiderProjects/
+'Saved Games'/
+ Searches/
+ SendTo@
+ Tracing/
+ Videos/
+'VirtualBox VMs'/
+ ansel/
+ curseforge/
+ dotTraceSnapshots/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ regwizard.log
+ sanct.log
+'Мои документы'@
+ Развлечения/
+ Шаблоны@
+'главное меню'@
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 ~
+$ md "C:\Work\STGAU\Управление ЖЦ ИС\Лаб2\tmp"
+bash: md: command not found
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 ~
+$ md "C:\Work\STGAU\Управление ЖЦ ИС\Лаб2 \tmp"
+bash: md: command not found
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 ~
+$ cd "C:\Work\STGAU\Управление ЖЦ ИС\Лаб2\tmp"
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+$ ls
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+$ git config --global user.name "Фоменко Сергей Юрьевич"
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+$ git config --global user.email "sergfoma007@mail.ru"
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+$ pwd
+/c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+$ ls
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp
+$ git init
+Initialized empty Git repository in C:/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp/.git/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp (master)
+$ ls
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp (master)
+$ ls -a
+./  ../  .git/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/tmp (master)
+$ cd ..
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ mkdir GitRepo
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ ls
+GitRepo/  tmp/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ pwd
+/c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ ls
+GitRepo/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ cd GitRepo/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo
+$ ls
+tmp/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo
+$ ls -a
+./  ../  tmp/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo
+$ cd tmp
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ ls
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ ls -a
+./  ../  .git/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git add README.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.txt
+
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git commit -m "Добавлен файл README"
+[master (root-commit) 17bd559] Добавлен файл README
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git add README.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.txt
+
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git commit -m "Изменения в README"
+[master 6a992cd] Изменения в README
+ 1 file changed, 1 insertion(+)
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git log
+commit 6a992cddaf3c2c92238be579605e51f5c8495c2e (HEAD -> master)
+Author: Фоменко Сергей Юрьевич <sergfoma007@mail.ru>
+Date:   Fri Mar 3 10:43:54 2023 +0300
+
+    Изменения в README
+
+commit 17bd559d811db5acec6295e8cc5ed00bf30323ab
+Author: Фоменко Сергей Юрьевич <sergfoma007@mail.ru>
+Date:   Fri Mar 3 10:40:44 2023 +0300
+
+    Добавлен файл README
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git add test.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git add README.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git commit -m "Тестовый коммит с 2 изменениями"
+[master 9692850] Тестовый коммит с 2 изменениями
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 test.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git log
+commit 9692850d6a12f9320f4190fbfa893e14b73f2e2f (HEAD -> master)
+Author: Фоменко Сергей Юрьевич <sergfoma007@mail.ru>
+Date:   Fri Mar 3 10:45:59 2023 +0300
+
+    Тестовый коммит с 2 изменениями
+
+commit 6a992cddaf3c2c92238be579605e51f5c8495c2e
+Author: Фоменко Сергей Юрьевич <sergfoma007@mail.ru>
+Date:   Fri Mar 3 10:43:54 2023 +0300
+
+    Изменения в README
+
+commit 17bd559d811db5acec6295e8cc5ed00bf30323ab
+Author: Фоменко Сергей Юрьевич <sergfoma007@mail.ru>
+Date:   Fri Mar 3 10:40:44 2023 +0300
+
+    Добавлен файл README
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git log -p
+commit 9692850d6a12f9320f4190fbfa893e14b73f2e2f (HEAD -> master)
+Author: Фоменко Сергей Юрьевич <sergfoma007@mail.ru>
+Date:   Fri Mar 3 10:45:59 2023 +0300
+
+    Тестовый коммит с 2 изменениями
+
+diff --git a/README.txt b/README.txt
+index 5dd01c1..4971f62 100644
+--- a/README.txt
++++ b/README.txt
+@@ -1 +1 @@
+-Hello, world!
+\ No newline at end of file
++!!Hello, world!
+\ No newline at end of file
+diff --git a/test.txt b/test.txt
+new file mode 100644
+index 0000000..3b12464
+--- /dev/null
++++ b/test.txt
+@@ -0,0 +1 @@
++TEST
+\ No newline at end of file
+
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ git clone https://github.com/sergfoma007/GitTest.git test
+Cloning into 'test'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ ls
+README.txt  test/  test.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ cd test
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ git remote -v
+origin  https://github.com/sergfoma007/GitTest.git (fetch)
+origin  https://github.com/sergfoma007/GitTest.git (push)
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ git gstatus
+git: 'gstatus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ git add Hello.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ git commit -m "Hello"
+[main b2a04d6] Hello
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Hello.txt
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 325 bytes | 325.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/sergfoma007/GitTest.git
+   bad153b..b2a04d6  main -> main
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ ls
+Hello.txt  README.md
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ pwd
+/c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp/test (main)
+$ cd ..
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo/tmp (master)
+$ cd ..
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo
+$ cd ..
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ git init
+Initialized empty Git repository in C:/Work/STGAU/Управление ЖЦ ИС/Лаб2/.git/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2 (master)
+$ ls
+GitRepo/  GitRepo2/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2 (master)
+$ ls
+GitRepo/  GitRepo2/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2
+$ cd GitRepo2
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2
+$ mkdir tmp
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2
+$ cd tmp
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp
+$ git init
+Initialized empty Git repository in C:/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp/.git/
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp (master)
+$ git clone https://github.com/sergfoma007/GitLab2.git test
+Cloning into 'test'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp (master)
+$ git add test/
+warning: adding embedded git repository: test
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> test
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached test
+hint:
+hint: See "git help submodule" for more information.
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp (master)
+$ git reset
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp (master)
+$ cd test
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp/test (main)
+$ ls
+README.md
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp/test (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp/test (main)
+$ git commit -m "Успешно связано с локальным"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+sergfoma007@DESKTOP-F48FEVK MINGW64 /c/Work/STGAU/Управление ЖЦ ИС/Лаб2/GitRepo2/tmp/test (main)
+$
